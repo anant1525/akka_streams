@@ -1,3 +1,3 @@
 # akka_streams
 
-This is for testing the akka streams
+For testing the akka streams use jdk 8
